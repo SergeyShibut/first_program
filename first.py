@@ -1,8 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-print()
-
 x = np.linspace(-5, 5, 100)
 
 def gauss(sigma, mu):
